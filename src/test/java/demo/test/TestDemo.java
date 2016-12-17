@@ -8,6 +8,7 @@ public class TestDemo {
     @Test
     public void testDemoInit(){
         String cadena = "Roy";
+
         Assert.assertEquals(cadena, "Roy");
     }
 }
